@@ -7,7 +7,7 @@ public class Sum {
             sum=sum+array[i];
 
             if(mini>array[i]){
-                mini=array[i];
+                mini= array[i];
             }
         }
 
